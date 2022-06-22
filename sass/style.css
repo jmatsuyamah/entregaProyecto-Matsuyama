@@ -1,0 +1,65 @@
+nav {
+  background-color: rgb(248, 231, 231);
+}
+nav li {
+  padding: 4px;
+}
+
+/*Color principal de la pagina */
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+main {
+  background-color: rgb(223, 223, 223);
+}
+
+h1 {
+  text-align: center;
+}
+
+footer {
+  background-color: rgb(223, 223, 223);
+}
+
+/* Logo del nav */
+.imgLph {
+  height: 50px;
+  width: 50px;
+}
+
+/* Imagenes historia */
+.historia {
+  height: 500px;
+  width: 100%;
+}
+
+/* Imagenes ultimas noticias */
+.ultimas {
+  height: 150px;
+  width: 100%;
+}
+
+.card-text {
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+  font-size: 15px;
+}
+
+span {
+  color: red;
+  font-size: medium;
+}
+
+p {
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+/* Mas leidos */
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
